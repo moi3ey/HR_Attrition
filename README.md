@@ -1,5 +1,5 @@
-# HR_Attrition
-## Case Study: HR Attrition using Ensemble Techniques
+
+# Case Study: HR Attrition using Ensemble Techniques
 
 ## Context:
 
